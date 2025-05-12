@@ -1,0 +1,29 @@
+Apache HTTP Server (Apache)
+
+Nginx
+
+LiteSpeed
+
+Caddy
+
+Microsoft Internet Information Services (IIS)
+
+Tomcat (Apache Tomcat)
+
+Node.js (utilisé comme serveur web avec Express)
+
+OpenLiteSpeed
+
+Cherokee
+
+Lighttpd
+
+Jetty
+
+Traefik
+
+Gunicorn (pour les applications Python)
+
+uWSGI (souvent utilisé avec Flask ou Django)
+
+H2O
